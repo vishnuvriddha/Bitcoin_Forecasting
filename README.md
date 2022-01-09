@@ -107,6 +107,14 @@ All our models are lagging, just like the naive model
 
 ## Making a forecast onto the future with our model 
 
+Now that we've tested sufficient models, its time to make predictions into the future...
+
+For this purpose we will use a simple Dense model which performs almost as good as the naive baseline model.
+
+This is the forecast from our model :
+
+![image](https://user-images.githubusercontent.com/86077149/148683018-f12e13ce-5338-4bce-8c5a-4ad07965224b.png)
+
 
 
 
